@@ -1,4 +1,4 @@
-from User_interface import get_info as gi
+from input import get_info as gi
 
 info = gi()
 
